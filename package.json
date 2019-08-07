@@ -1,0 +1,25 @@
+{
+  "name": "udemyclone",
+  "version": "1.0.0",
+  "description": "udemyClone based on flexbox",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tduncan14/udemyClone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tduncan14/udemyClone/issues"
+  },
+  "homepage": "https://github.com/Tduncan14/udemyClone#readme"
+}
